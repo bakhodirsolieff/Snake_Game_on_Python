@@ -16,6 +16,5 @@ Controls: Use the arrow keys (←, →, ↑, ↓) to steer your snake.
 Objective: Collect as much food as possible while preventing your snake from hitting the walls or itself.
 Game Over: If your snake collides with anything, the game ends. But don't worry, you can always restart and try again!
 
-Have Fun! ️
-This project is written in **Python**
+Have Fun! ️ 
 We hope you enjoy this classic arcade experience. Share your high scores with friends and family and see who can become the ultimate snake master!
