@@ -1,4 +1,4 @@
-# Snake_Game This project is written in **Python**
+# Snake_Game  
 Welcome to the Classic Snake Game!
 
 Get ready to slither your way to victory in this timeless arcade game. Navigate your growing snake around the screen, collecting delicious food while avoiding collisions. Master the controls and see how high you can climb the score ladder!
@@ -17,5 +17,5 @@ Objective: Collect as much food as possible while preventing your snake from hit
 Game Over: If your snake collides with anything, the game ends. But don't worry, you can always restart and try again!
 
 Have Fun! ️
-
+This project is written in **Python**
 We hope you enjoy this classic arcade experience. Share your high scores with friends and family and see who can become the ultimate snake master!
